@@ -1,2 +1,2 @@
-# Model make
+# Rivian R1T
 
